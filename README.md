@@ -7,14 +7,14 @@ You can access this documentation online at https://zeit.co/docs .
 
 To get started developing locally, clone this repository, `cd` into the directory, and then install the dependencies:
 
-```sh
+```bash
 yarn
 ```
 
 Next, you can run the app with:
 (The app is written in [Next.js](https://github.com/zeit/next.js))
 
-```sh
+```bash
 yarn dev
 ```
 
