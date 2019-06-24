@@ -4,5 +4,6 @@ dist
 LICENSE.md
 README.md
 .next
-contributing.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
 .github
